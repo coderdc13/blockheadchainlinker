@@ -1,3 +1,3 @@
 +++
 
-08AUG2018 Prepare for classes tonight and tomorrow night...
+14AUG2018 0954EDT daily blockchain, react.js, and T1CG
